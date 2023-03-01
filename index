@@ -9,7 +9,18 @@
 </head>
 <body>
 <main id="content">
-
+    <form method="get" action="null">
+        <h1>join my club</h1>
+        <p>
+            please fill out my list i am so cool
+        </p>
+        <ol>
+            <li id="input-name">
+                <label for="name">Name</label>
+                <input type="name" name="name" id="name">
+            </li>
+        </ol>
+    </form>
 </main>
 </body>
 </html>
