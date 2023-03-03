@@ -1,26 +1,13 @@
-#main-navbar {
+main{
     background-color: black;
-    overflow:hidden;
-    border-bottom: 1px;
-    border-color: rgb(228, 193, 229);
 }
-#navbar-container{
+h1{
     text-align: left;
+    color:rgb(228, 193, 229);
+    position:relative;
+    font-size: larger;
+    font-weight: bold;
 }
-#main-navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    display: inline-block;
-}
-#main-navbar ul li{
-    float: left;
-}
-#main-navbar ul li a{
-    position: relative;
-    display: block;
-    padding: 10px 20px;
-    color: rgb(228, 193, 229);
-    text-decoration: none;
+body{
+    background-image: url(../media/aurafoto.jpg);
 }
