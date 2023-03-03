@@ -9,11 +9,7 @@
 </head>
 <body>
 <main id="content">
-    <nav id="main-navbar">
-        <div id="navbar-container" class="container">
-            <p>PECOSA</p>
-        </div>
-      </nav>
+    <h1>PECOSA</h1>
     <div id="fillForm">
       <form method="get" action="null">
         <h1>Can I get your number?</h1>
