@@ -34,10 +34,6 @@
             <label for="input-agreement">I agree to the terms of use</label>
             <input type="checkbox" name ="input-agreement" id="input-agreement">
           </li>
-          <li id="input-submit">
-            <label for="input-submit">Submit?</label>
-            <input type="button" name="submit" value="Submit.">
-          </li>
           <li id="submit">
             <input type="submit" name="submit" id="submit" value="Submit"> 
           </li>
