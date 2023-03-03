@@ -5,15 +5,15 @@ body{
     background-color: black;
 }
 main{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
     text-align: left;
     color:rgb(228, 193, 229);
     position:relative;
-    font-size: 3em;
+    font-size: em;
     font-weight: bold;
-    padding: 2em;
+    padding: 1em;
 }
 h2{
     font-size: 2em;
@@ -29,10 +29,4 @@ h2{
     width: 400px;
     padding: 1em;
     border-color: black;
-}
-#input-submit{
-    display: block;
-    width:95%;
-    margin:auto;
-    text-align: center;
 }
