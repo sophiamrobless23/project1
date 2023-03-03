@@ -54,7 +54,7 @@ h2{
         background-image: url("../media/aurafoto.jpg")
     }
 }
-@media screen and (min-width: 1200) {
+@media screen and (min-width: 1200px) {
     h1{
         font-size: 3em;
     }
