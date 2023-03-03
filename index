@@ -9,6 +9,11 @@
 </head>
 <body>
 <main id="content">
+    <nav id="main-navbar">
+        <div id="navbar-container" class="container">
+            <p>PECOSA</p>
+        </div>
+      </nav>
     <form method="get" action="null">
         <h1>join my club</h1>
         <p>
