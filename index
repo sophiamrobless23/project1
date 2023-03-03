@@ -35,7 +35,7 @@
           </li>
           <li id="input-submit">
             <label for="input-submit">Submit?</label>
-            <input type="submit" value="Submit." id="submit">
+            <input type="button" value="Submit." id="submit">
           </li>
         </ol>
       </form>
