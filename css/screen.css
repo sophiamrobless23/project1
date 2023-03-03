@@ -30,3 +30,9 @@ h2{
     padding: 1em;
     border-color: black;
 }
+li label{
+    padding: 0.5em;
+}
+li input{
+    padding: 0.5em;
+}
