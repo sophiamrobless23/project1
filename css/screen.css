@@ -1,6 +1,7 @@
 body{
     background-image: url(../media/aurafoto.jpg);
     background-repeat: no-repeat;
+    background-size: 100vw 100vh;
     background-color: black;
 }
 main{
@@ -29,7 +30,7 @@ h2{
     text-align: center;
     margin:auto;
     display: block;
-    height: 500px;
+    height: 525px;
     width: 350px;
     padding: 1em;
     border-color: black;
@@ -45,7 +46,7 @@ h2{
 #fillForm li input{
     padding: 0.5em;
 }
-#input-submit{
+button{
     color: rgb(228, 193, 229);
     font-weight: bold;
 }
