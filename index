@@ -12,8 +12,10 @@
     <h1>PECOSA</h1>
     <div id="fillForm">
       <form method="get" action="null">
-        <h2>Join us</h1>
-        <p>Sign up for text updates on new releases and sales.</p>
+        <h2>I LOVE YOU</h1>
+            <div id="description">
+                <p>Sign up for daily affirmations!</p>
+            </div>
         <ol>
           <li id="input-name">
             <label for="name">Name</label>

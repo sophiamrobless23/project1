@@ -12,16 +12,21 @@ h1{
     color:rgb(228, 193, 229);
     position:relative;
     font-size: 3em;
-    font-weight: bold;
+    font-weight: bolder;
     padding: 1em;
 }
 h2{
     font-size: 2em;
     text-align: center;
-    padding: 1em;
+    padding: .8em;
+    color:rgb(228, 193, 229);
+    font-weight: bold;
+}
+#description{
+    padding-bottom:.3em;
 }
 #fillForm{
-    background-color: rgb(228, 193, 229);
+    background-color: white;
     text-align: center;
     margin:auto;
     display: block;
