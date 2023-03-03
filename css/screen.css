@@ -4,6 +4,9 @@ body{
     background-repeat: no-repeat;
     background-color: black;
 }
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1{
     text-align: left;
     color:rgb(228, 193, 229);
@@ -19,16 +22,14 @@ h2{
 }
 #fillForm{
     background-color: rgb(228, 193, 229);
-    text-align: center;
+    align-items: center;
     margin:auto;
-    resize: vertical;
     display: block;
-    height: 100px;
-    width: 100px;
-    position: fixed;
+    height: 25%;
+    width: 400px;
     padding: 1em;
+    border-color: black;
 }
-
 #input-submit{
     display: block;
     width:95%;
