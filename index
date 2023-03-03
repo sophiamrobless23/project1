@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>HTML Form Elements</title>
+  <title>Daily Affirmations</title>
   <meta charset="utf-8">
   <meta name="viewport">
   <link rel="stylesheet" media="screen" href="css/meyers_and_normalize-form_reset.css">
   <link rel="stylesheet" media="screen" href="css/screen.css">
+  <script async src="js/script.js"></script>
 </head>
 <body>
 <main id="content">
@@ -36,6 +37,9 @@
           <li id="input-submit">
             <label for="input-submit">Submit?</label>
             <input type="button" name="submit" value="Submit.">
+          </li>
+          <li id="submit">
+            <input type="submit" name="submit" id="submit" value="Submit"> 
           </li>
         </ol>
       </form>

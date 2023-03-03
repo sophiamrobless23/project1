@@ -46,7 +46,19 @@ h2{
 #overlay li input{
     padding: 0.5em;
 }
-button{
-    background-color: rgb(228, 193, 229);
-    font-weight: bold;
+@media screen and (min-width: 800px) {
+    h1{
+        font-size: 2em;
+    }
+    body{
+        background-image: url("../media/aurafoto.jpg")
+    }
+}
+@media screen and (min-width:1200) {
+    h1{
+        font-size: 3em;
+    }
+    body{
+        background-image: url("../media/aurafoto.jpg")
+    }
 }
