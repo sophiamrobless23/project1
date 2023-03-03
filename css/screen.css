@@ -20,11 +20,14 @@ h2{
 #fillForm{
     background-color: rgb(228, 193, 229);
     text-align: center;
+    align-items: center;
     margin:auto;
     resize: vertical;
-    display: block;
-    height: 75%;
-    width: 35%;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    padding: 1em;
 }
 
 #input-submit{

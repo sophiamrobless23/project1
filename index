@@ -27,7 +27,7 @@
             <label for="phonenumber">Phone Number</label>
             <input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="(012)345-6789">
           </li>
-          <li id="submit">
+          <li id="input-submit">
             <label for="submit">Submit</label>
             <input type="submit" name="submit" id="submit">
           </li>
