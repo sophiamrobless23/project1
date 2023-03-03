@@ -11,7 +11,7 @@ h1{
     text-align: left;
     color:rgb(228, 193, 229);
     position:relative;
-    font-size: em;
+    font-size: 3em;
     font-weight: bold;
     padding: 1em;
 }
@@ -22,7 +22,7 @@ h2{
 }
 #fillForm{
     background-color: rgb(228, 193, 229);
-    align-items: center;
+    text-align: center;
     margin:auto;
     display: block;
     height: 25%;
