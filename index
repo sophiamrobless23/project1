@@ -10,7 +10,7 @@
 <body>
 <main id="content">
     <h1>PECOSA</h1>
-    <div id="fillForm">
+    <div id="overlay">
       <form method="get" action="null">
         <h2>I LOVE YOU</h1>
             <div id="description">
@@ -27,7 +27,7 @@
           </li>
           <li id="input-phonenumber">
             <label for="phonenumber">Phone Number</label>
-            <input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="(012)345-6789">
+            <input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" placeholder="(012)345-6789">
           </li>
           <li id="input-agreement">
             <label for="input-agreement">I agree to the terms of use</label>
@@ -39,7 +39,7 @@
           </li>
         </ol>
       </form>
-</div>
+    </div>
 </main>
 </body>
 </html>

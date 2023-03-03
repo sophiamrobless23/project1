@@ -25,7 +25,7 @@ h2{
 #description{
     padding-bottom:.3em;
 }
-#fillForm{
+#overlay{
     background-color: white;
     text-align: center;
     margin:auto;
@@ -35,18 +35,18 @@ h2{
     padding: 1em;
     border-color: black;
 }
-#fillForm li{
+#overlay li{
     display:flex;
     flex-direction:column;
     padding: 1em;
 }
-#fillForm li label{
+#overlay li label{
     padding-bottom: 0.5em;
 }
-#fillForm li input{
+#overlay li input{
     padding: 0.5em;
 }
-button{
-    color: rgb(228, 193, 229);
+#input-submit{
+    background-color: rgb(228, 193, 229);
     font-weight: bold;
 }
