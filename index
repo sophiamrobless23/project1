@@ -14,18 +14,30 @@
             <p>PECOSA</p>
         </div>
       </nav>
-    <form method="get" action="null">
-        <h1>join my club</h1>
-        <p>
-            please fill out my list i am so cool
-        </p>
+    <div id="fillForm">
+      <form method="get" action="null">
+        <h1>Can I get your number?</h1>
+        <p>Sign up for text updates on new releases and sales.</p>
         <ol>
-            <li id="input-name">
-                <label for="name">Name</label>
-                <input type="name" name="name" id="name">
-            </li>
+          <li id="input-name">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="Jane Doe">
+          </li>
+          <li id="input-birthday">
+            <label for="birthday">Birthday</label>
+            <input type="date" name="birthday" id="birthday" placeholder="01/01/2000">
+          </li>
+          <li id="input-phonenumber">
+            <label for="phonenumber">Phone Number</label>
+            <input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="(012)345-6789">
+          </li>
+          <li id="submit">
+            <label for="submit">Submit</label>
+            <input type="submit" name="submit" id="submit">
+          </li>
         </ol>
-    </form>
+      </form>
+</div>
 </main>
 </body>
 </html>
