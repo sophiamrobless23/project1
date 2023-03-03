@@ -3,9 +3,8 @@ jQuery(function($) {
     $('html').addClass('hasjs');
 });
 function init(){
-    var input = document.getElementById('entryinput')
+    var input = document.getElementById('name')
     var pressButton = document.getElementById('submit')
-    var output = document.getElementById('textoutput')
 
     function alertFunc(){
         alert('Thank you for joining, ' + input.value)
