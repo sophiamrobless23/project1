@@ -19,7 +19,7 @@ h2{
     font-size: 2em;
     text-align: center;
     padding: .8em;
-    color:rgb(222, 28, 229);
+    color:rgb(228, 193, 229);
     font-weight: bold;
 }
 #description{
@@ -45,4 +45,8 @@ h2{
 }
 #fillForm li input{
     padding: 0.5em;
+}
+#input-submit{
+    color: rgb(228, 193, 229);
+    font-weight: bold;
 }
