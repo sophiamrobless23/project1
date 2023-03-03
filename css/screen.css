@@ -15,15 +15,16 @@ h1{
 h2{
     font-size: 2em;
     text-align: center;
+    padding: 1em;
 }
 #fillForm{
-    background-color: white;
+    background-color: rgb(228, 193, 229);
     text-align: center;
     margin:auto;
     resize: vertical;
     display: block;
     height: 75%;
-    width: 50%;
+    width: 35%;
 }
 
 #input-submit{
