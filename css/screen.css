@@ -41,7 +41,7 @@ h2{
     padding: 1em;
 }
 #fillForm li label{
-    padding: 0.5em;
+    padding-bottom: 0.5em;
 }
 #fillForm li input{
     padding: 0.5em;

@@ -30,12 +30,11 @@
             <input type="tel" name="phonenumber" id="phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="(012)345-6789">
           </li>
           <li id="input-agreement">
-            <label for="input-agreement">I agree to receive texts everyday</label>
+            <label for="input-agreement">I agree to the terms of use</label>
             <input type="checkbox" name ="input-agreement" id="input-agreement">
           </li>
           <li id="input-submit">
-            <label for="submit"></label>
-            <input type="submit" name="submit" id="submit">
+            <input type="submit" value="submit" id="submit">
           </li>
         </ol>
       </form>
