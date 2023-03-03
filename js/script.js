@@ -3,8 +3,8 @@ jQuery(function($) {
     $('html').addClass('hasjs');
 });
 function init(){
-    var input = document.getElementById('name')
-    var pressButton = document.getElementById('submit')
+    var input = document.getElementById('input-name')
+    var pressButton = document.getElementById('input-submit')
 
     function alertFunc(){
         alert('Thank you for joining, ' + input.value)
