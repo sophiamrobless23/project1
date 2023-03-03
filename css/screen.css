@@ -46,7 +46,7 @@ h2{
 #overlay li input{
     padding: 0.5em;
 }
-#input-submit{
+button{
     background-color: rgb(228, 193, 229);
     font-weight: bold;
 }
