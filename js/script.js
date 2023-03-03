@@ -4,7 +4,7 @@ jQuery(function($) {
 });
 function init(){
     var input = document.getElementById('input-name')
-    var pressButton = document.getElementById('input-submit')
+    var pressButton = document.getElementById('submit')
 
     function alertFunc(){
         alert('Thank you for joining, ' + input.value)
