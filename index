@@ -14,7 +14,7 @@
       <form method="get" action="null">
         <h2>I LOVE YOU</h1>
             <div id="description">
-                <p>Sign up for daily affirmations!</p>
+                <p>Sign up for daily affirmations</p>
             </div>
         <ol>
           <li id="input-name">
