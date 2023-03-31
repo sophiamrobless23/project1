@@ -3,10 +3,9 @@ jQuery(function($) {
     $('html').addClass('hasjs');
 });
 function init(){
-    var name = document.getElementById('input-name')
     var pressButton = document.getElementById('submit')
     function alertFunc(){
-        alert('Thanks, ' + name.value)
+        alert('THANK YOU')
     }
 pressButton.addEventListener('click', alertFunc);
 }
