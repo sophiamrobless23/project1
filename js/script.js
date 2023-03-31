@@ -3,9 +3,8 @@ jQuery(function($) {
     $('html').addClass('hasjs');
 });
 function init(){
-    var name = index.getElementById('input-name')
-    var pressButton = index.getElementById('submit')
-
+    var name = document.getElementById('input-name')
+    var pressButton = document.getElementById('submit')
     function alertFunc(){
         alert('Thanks, ' + name.value)
     }
