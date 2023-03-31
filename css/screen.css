@@ -14,6 +14,7 @@ h1{
     font-size: 3em;
     font-weight: bolder;
     padding: 1em;
+    font-family: Chicle;
 }
 h2{
     font-size: 2em;
@@ -21,6 +22,7 @@ h2{
     padding: .8em;
     color:rgb(228, 193, 229);
     font-weight: bold;
+    font-family: Chicle;
 }
 #description{
     padding-bottom:.3em;
